@@ -2,3 +2,9 @@
   max-width: 65vw;
   margin: 1.5rem auto;
 }
+
+@media (max-width: 500px) {
+  .container {
+    max-width: 85vw;
+  }
+}
