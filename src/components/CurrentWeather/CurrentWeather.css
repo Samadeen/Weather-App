@@ -1,5 +1,5 @@
 .weather {
-  width: 25vw;
+  width: 35vw;
   border-radius: 0.5rem;
   box-shadow: 10px -2px 20px 2px rgb(0 0 0 / 30%);
   color: white;
@@ -45,7 +45,7 @@
 
 .details {
   width: 100%;
-  padding-left: 1.5rem;
+  padding-left: 4rem;
 }
 
 .parameter_row {
@@ -58,6 +58,11 @@
   text-align: left;
   font-weight: 400;
   font-size: 0.8rem;
+}
+
+.top {
+  font-size: 1.1rem;
+  font-weight: 700;
 }
 
 .parameter-value {
